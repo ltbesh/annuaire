@@ -1,0 +1,36 @@
+# Use pip install -r requirements.txt to install all the requirements
+
+Django==1.5.1
+#argparse==1.2.1
+#wsgiref==0.1.2
+
+
+## Database backends
+## PostgreSQL adapter for Python
+#psycopg2
+
+django-heroku-postgresify==0.2
+
+#Database migration
+South
+
+
+# Needed for heroku
+dj-database-url==0.2.1
+
+#Registration Appli / Not used anymore / added directly to the project because modifs were made
+#django-registration==0.8
+
+#API
+django-tastypie
+
+#Debug
+django-debug-toolbar==0.9.4
+
+#Mail server 
+#sendgrid
+#xlrd
+
+#Search Engine
+django-haystack
+pysolr
