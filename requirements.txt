@@ -7,7 +7,7 @@ Django==1.5.1
 
 ## Database backends
 ## PostgreSQL adapter for Python
-#psycopg2
+#psycopg2=2.4.
 
 django-heroku-postgresify==0.2
 
