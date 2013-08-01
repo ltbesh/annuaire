@@ -7,19 +7,15 @@ Django==1.5.1
 
 ## Database backends
 ## PostgreSQL adapter for Python
-#psycopg2=2.4.
+psycopg2==2.5.1
 
 django-heroku-postgresify==0.2
 
 #Database migration
 South
 
-
 # Needed for heroku
 dj-database-url==0.2.1
-
-#Registration Appli / Not used anymore / added directly to the project because modifs were made
-#django-registration==0.8
 
 #API
 django-tastypie
@@ -34,3 +30,6 @@ django-debug-toolbar==0.9.4
 #Search Engine
 django-haystack
 pysolr
+
+#Geography
+geopy

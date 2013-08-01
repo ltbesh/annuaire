@@ -3,11 +3,13 @@ from django.conf.urls import patterns, include, url
 
 from Course.views import CourseListView, CourseDetailView
 
+from Course import views
 # Uncomment the next two lines to enable the admin:
 from django.contrib import admin
 admin.autodiscover()
 
 urlpatterns = patterns('',
+    url(r'^$', views.home, name = 'home'),
 	url(r'^course/$', CourseListView.as_view(), name = "course_list_view"),
 	url(r'^course/(?P<pk>\d+)/', CourseDetailView.as_view(), name = "course_detail_view"),
 	url(r'^search/', include('haystack.urls')),

@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sou",
+				"source_array"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"target",
+				"target"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"pat",
+				"path_to_file"
+			],
+			[
+				"template",
+				"templates"
+			],
+			[
+				"path",
+				"path_to_ref"
+			],
+			[
+				"ne",
+				"new_file_name"
+			],
+			[
+				"do",
+				"dossier_source"
+			],
+			[
+				"dossier",
+				"dossiersource"
+			],
+			[
+				"find",
+				"find_pictures"
+			],
+			[
+				"fi",
+				"fichier"
+			],
+			[
+				"doss",
+				"dossier_source"
+			],
+			[
+				"course",
+				"CourseDetailView"
+			],
+			[
+				"Cours",
+				"CourseDetailView"
+			],
+			[
+				"Course",
+				"CourseDetailView"
+			],
+			[
+				"Cou",
+				"CourseList"
+			],
+			[
+				"ques",
+				"question_ressource"
+			],
+			[
+				"Pro",
+				"Projet-Prepa"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"sal",
+				"sale"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"C",
+				"customer"
+			],
+			[
+				"cu",
+				"customer_city"
+			],
+			[
+				"sa",
+				"salesperson_id"
+			],
+			[
+				"sp",
+				"salesperson_id"
+			],
+			[
+				"s",
+				"salesperson"
+			],
+			[
+				"de",
+				"dealership"
+			],
+			[
+				"dea",
+				"dealership_id"
+			],
+			[
+				"wor",
+				"worker_key"
+			],
+			[
+				"worker",
+				"worker_list"
+			],
+			[
+				"fin",
+				"final_assignement"
+			],
+			[
+				"job",
+				"job_per_worker"
+			],
+			[
+				"jo",
+				"job_per_worker"
+			],
+			[
+				"root",
+				"ROOT_URLCONF"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Lucas/Documents/Entreprises/Geotest/geodjango/geodjango/settings.py",
+			"settings":
+			{
+				"buffer_size": 4841,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Lucas/.virtualenvs/test/bin/postdeactivate",
+		"/Users/Lucas/.virtualenvs/geotest/bin/postactivate",
+		"/Users/Lucas/.bashrc",
+		"/Users/Lucas/Downloads/ChangeLog",
+		"/Users/Lucas/.virtualenvs/geotest/bin/postdeactivate",
+		"/Users/Lucas/.virtualenvs/test/bin/postactivate",
+		"/Users/Lucas/.virtualenvs/annuaire/bin/postactivate",
+		"/Users/Lucas/.virtualenvs/annuaire/bin/postdeactivate",
+		"/Volumes/public/file_arrangement.sh",
+		"/Users/Lucas/Documents/test.sh",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/settings.py",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/models.py",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/projetprepa/settings.py",
+		"/Users/Lucas/Documents/essai.sh",
+		"/Users/Lucas/Documents/ListeDCL",
+		"/Users/Lucas/Documents/createfolder.py",
+		"/Users/Lucas/Documents/file_arrangement.sh",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/requirements.txt",
+		"/Users/Lucas/Documents/Entreprises/OldAnnuaire/Annuaire/settings.py",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/templates/search/indexes/Course/note_text.txt",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/templates/search/search.html",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/urls.py",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/settings.py",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/views.py",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/solr-4.3.1/example/solr/collection1/conf/schema.xml",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/search_indexes.py",
+		"/Users/Lucas/Documents/Entreprises/annuairebis/requirements.txt",
+		"/Users/Lucas/Desktop/https:::help.ubuntu.com:community:How%20to%20insta",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/apache-solr-3.6.2/example/solr/conf/schema.xml",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/admin.py",
+		"/Volumes/Python 2.7.5/ReadMe.txt",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/templates/Course/course_text.txt",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/templates/Course/course_detail.html",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/templates/Course/course_list.html",
+		"/Users/Lucas/.virtualenvs/Annuaire/lib/python3.3/site-packages/haystack/models.py",
+		"/Users/Lucas/.bash_prompt.sh",
+		"/Users/Lucas/.bash_profile",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/search.html",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/templates/base.html",
+		"/Users/Lucas/Desktop/map-simple.html",
+		"/usr/local/Cellar/sphinx/2.0.8/api/test.php",
+		"/usr/local/Cellar/sphinx/2.0.8/etc/sphinx.conf",
+		"/usr/local/Cellar/sphinx/2.0.8/api/test.py",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/.gitignore",
+		"/private/etc/paths",
+		"/Users/Lucas/Downloads/sphinx-2.0.8-release-osx10.6-i386/INSTALL",
+		"/Users/Lucas/Downloads/sphinx/contrib/README",
+		"/Users/Lucas/Downloads/sphinx-2.0.8-release-osx10.6-i386/doc/sphinx.txt",
+		"/usr/local/Cellar/sphinx/2.0.8/etc/example.sql",
+		"/Users/Lucas/.bash_profile.pysave",
+		"/Users/Lucas/.profile",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/QCM/templates/QCM/question_detail.html",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/QCM/templates/QCM/user_profile.html",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/QCM/templates/QCM/quizz_results.html",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/course_list.html",
+		"/Users/Lucas/Desktop/course_list.html",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/templates/Course/base.html",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Cours/admin.py",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Cours/models.py",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/requirements.txt",
+		"/Users/Lucas/Desktop/untitled",
+		"/Users/Lucas/.CF89AA64",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/Template/Annuaire/course_list.html",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Cours/urls.py",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/QCM/models.py",
+		"/Users/Lucas/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Lucas/Desktop/test",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/RKGist/Podfile",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/CoffeeShop/CoffeeShop/CoffeeShop-Prefix.pch",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/.bash_prompt.sh",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/QCM/api.py",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/urls.py",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/QCM/views.py",
+		"/Users/Lucas/Downloads/bashrc",
+		"/Users/Lucas/Downloads/bash_prompt",
+		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/manage.py",
+		"/Users/Lucas/.bashrc.sh",
+		"/Users/Lucas/Desktop/trick-or-treat.svg",
+		"/Users/Lucas/Desktop/Retake SQL Homework 1",
+		"/Users/Lucas/Desktop/Retake SQL Homework.py",
+		"/Users/Lucas/Desktop/Retake SQL Homework 2.txt",
+		"/Users/Lucas/Desktop/SQL.py",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/templates/QCM/user_profile.html",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/templates/QCM/start_quizz.html",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/templates/QCM/questionselection.html",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/templates/QCM/qcm.html",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/templates/QCM/login.html",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/templates/QCM/index.html",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/templates/QCM/end_quizz.html",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/templates/QCM/base_QCM.html",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/urls.py",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/models.py",
+		"/Users/Lucas/Downloads/Projet-Prepa/QCM/views.py",
+		"/Users/Lucas/Downloads/crawler/urlcrawler/models.py",
+		"/Users/Lucas/Downloads/crawler/urlcrawler/tasks.py",
+		"/Users/Lucas/Downloads/crawler/urlcrawler/views.py",
+		"/Users/Lucas/Documents/CV/Test/assignement.py",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/templates/default/header/header_bar.tpl",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/templates/default/content/content.tpl",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/templates/default/content/game.tpl",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/templates/default/content/maintenance.tpl",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/templates/default/content/no_slot.tpl",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/maintenance.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/playerData.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/playerDefy.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/playerScore.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/shop.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/index.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/inc/base.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/inc/cfg.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/inc/function.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/GetAccessToken.php",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/class/template.class.php",
+		"/Users/Lucas/Downloads/the wire.season4/The Wire S04E04 Refugees.srt",
+		"/Users/Lucas/Downloads/tirage_sans_remise.c",
+		"/Users/Lucas/Documents/Programmation/Python/projetPrepa/projetPrepa/settings.py",
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/class/connection.class.php",
+		"/Volumes/FREECOM HDD/Serie/The Sopranos Season 6 Complete 720p/The.Sopranos.S06E01.DVDRip.XviD-TOPAZ.French.srt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\n",
+			"base",
+			"target_directory",
+			"i",
+			"filename",
+			"REF",
+			"path_to_name",
+			"file_basename",
+			"base_name",
+			"name",
+			"base_name",
+			"fichier",
+			"dossier_source",
+			"fileArray",
+			"dossier_cible",
+			"arrayName",
+			"$i",
+			"i",
+			"dezipper",
+			"j",
+			"stopwordsen",
+			"stopw",
+			"debu",
+			"debug_toolbar",
+			"#   ",
+			"port",
+			"url",
+			":",
+			",",
+			"\"",
+			"Projet",
+			"responseDescriptor",
+			"workon",
+			"job_per_worker"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Lucas/Documents/Entreprises/Geotest/geodjango/geodjango/settings.py",
+					"settings":
+					{
+						"buffer_size": 4841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true
+}
