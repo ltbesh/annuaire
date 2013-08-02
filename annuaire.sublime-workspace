@@ -160,58 +160,10 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/Lucas/Documents/Entreprises/Annuaire/postinstall.sh",
+			"file": "/Users/Lucas/Documents/Entreprises/Geotest/geodjango/geodjango/settings.py",
 			"settings":
 			{
-				"buffer_size": 52,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/Lucas/Documents/Entreprises/Annuaire/wsgi.py",
-			"settings":
-			{
-				"buffer_size": 519,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Annuaire/wsgi.py",
-			"settings":
-			{
-				"buffer_size": 1424,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/projetprepa/wsgi.py",
-			"settings":
-			{
-				"buffer_size": 1144,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Annuaire/settings_dotcloud.py",
-			"settings":
-			{
-				"buffer_size": 478,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/settings.py",
-			"settings":
-			{
-				"buffer_size": 5407,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/Lucas/Documents/Entreprises/Annuaire/manage.py",
-			"settings":
-			{
-				"buffer_size": 251,
+				"buffer_size": 4841,
 				"line_ending": "Unix"
 			}
 		}
@@ -240,14 +192,6 @@
 	},
 	"file_history":
 	[
-		"/Users/Lucas/Documents/Entreprises/annuaire/Annuaire/manage.py",
-		"/Users/Lucas/Documents/Entreprises/Annuaire/dotcloud.yml",
-		"/Users/Lucas/Documents/Entreprises/Annuaire/requirements.txt",
-		"/Users/Lucas/Documents/Entreprises/Annuaire/postinstall.sh",
-		"/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/settings.py",
-		"/Users/Lucas/Documents/Entreprises/Annuaire/wsgy.py",
-		"/Users/Lucas/Documents/Entreprises/annuaire/Annuaire/postinstall.sh",
-		"/Users/Lucas/Documents/Entreprises/Geotest/geodjango/geodjango/settings.py",
 		"/Users/Lucas/.virtualenvs/test/bin/postdeactivate",
 		"/Users/Lucas/.virtualenvs/geotest/bin/postactivate",
 		"/Users/Lucas/.bashrc",
@@ -258,12 +202,14 @@
 		"/Users/Lucas/.virtualenvs/annuaire/bin/postdeactivate",
 		"/Volumes/public/file_arrangement.sh",
 		"/Users/Lucas/Documents/test.sh",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/settings.py",
 		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/models.py",
 		"/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/projetprepa/settings.py",
 		"/Users/Lucas/Documents/essai.sh",
 		"/Users/Lucas/Documents/ListeDCL",
 		"/Users/Lucas/Documents/createfolder.py",
 		"/Users/Lucas/Documents/file_arrangement.sh",
+		"/Users/Lucas/Documents/Entreprises/Annuaire/requirements.txt",
 		"/Users/Lucas/Documents/Entreprises/OldAnnuaire/Annuaire/settings.py",
 		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/templates/search/indexes/Course/note_text.txt",
 		"/Users/Lucas/Documents/Entreprises/Annuaire/Course/templates/search/search.html",
@@ -381,8 +327,6 @@
 		"case_sensitive": true,
 		"find_history":
 		[
-			"try",
-			"0",
 			"\n",
 			"base",
 			"target_directory",
@@ -434,126 +378,23 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/Lucas/Documents/Entreprises/Annuaire/postinstall.sh",
+					"file": "/Users/Lucas/Documents/Entreprises/Geotest/geodjango/geodjango/settings.py",
 					"settings":
 					{
-						"buffer_size": 52,
+						"buffer_size": 4841,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								25,
-								25
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/Lucas/Documents/Entreprises/Annuaire/wsgi.py",
-					"settings":
-					{
-						"buffer_size": 519,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								249,
-								249
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Annuaire/wsgi.py",
-					"settings":
-					{
-						"buffer_size": 1424,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								672,
-								672
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/Lucas/Documents/Entreprises/Projet Prepa/Projet-Prepa/projetprepa/wsgi.py",
-					"settings":
-					{
-						"buffer_size": 1144,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3,
-								3
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "Annuaire/settings_dotcloud.py",
-					"settings":
-					{
-						"buffer_size": 478,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								115,
-								115
+								276,
+								276
 							]
 						],
 						"settings":
@@ -561,60 +402,6 @@
 							"syntax": "Packages/Python/Python.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/settings.py",
-					"settings":
-					{
-						"buffer_size": 5407,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5407,
-								5407
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/Lucas/Documents/Entreprises/Annuaire/manage.py",
-					"settings":
-					{
-						"buffer_size": 251,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								211,
-								211
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

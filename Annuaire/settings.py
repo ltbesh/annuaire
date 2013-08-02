@@ -168,3 +168,8 @@ HAYSTACK_CONNECTIONS = {
         # 'URL': 'http://127.0.0.1:8983/solr/mysite',
     },
 }
+
+# Parse database configuration from $DATABASE_URL
+# import dj_database_url
+# DATABASES = {}
+# DATABASES['default'] =  dj_database_url.config()
