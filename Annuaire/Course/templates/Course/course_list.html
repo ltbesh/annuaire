@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>Course</h2>
+    <ul>
+        {% for course in course_list %}
+            <li> <a href = "{% url 'course_detail_view' pk=course.pk %}"> {{ course.description }} </a> </li>
+        {% endfor %}
+    </ul>
+{% endblock %}
