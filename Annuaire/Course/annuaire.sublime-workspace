@@ -159,6 +159,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/Lucas/Documents/Entreprises/annuaire/dotcloud.yml",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Lucas/Documents/Entreprises/annuaire/Annuaire/Annuaire/settings.py",
+			"settings":
+			{
+				"buffer_size": 5923,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -184,6 +200,7 @@
 	},
 	"file_history":
 	[
+		"/Users/Lucas/Documents/Entreprises/annuaire/postinstall.sh",
 		"/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/Course/views.py",
 		"/Users/Lucas/Documents/Entreprises/Annuaire/Annuaire/Course/models.py",
 		"/Users/Lucas/Documents/Entreprises/annuaire/wsgi.py",
@@ -310,8 +327,7 @@
 		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/shop.php",
 		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/index.php",
 		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/inc/base.php",
-		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/inc/cfg.php",
-		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/inc/function.php"
+		"/Users/Lucas/Documents/Programmation/Kadank/facebook/dev/www/inc/cfg.php"
 	],
 	"find":
 	{
@@ -329,6 +345,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"sites",
 			"try",
 			"0",
 			"\n",
@@ -384,6 +401,60 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/Lucas/Documents/Entreprises/annuaire/dotcloud.yml",
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Lucas/Documents/Entreprises/annuaire/Annuaire/Annuaire/settings.py",
+					"settings":
+					{
+						"buffer_size": 5923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4461,
+								4461
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1694.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
