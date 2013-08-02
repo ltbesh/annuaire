@@ -4,7 +4,7 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 # For Debug toolbar
-#INTERNAL_IPS = ('127.0.0.1',)
+INTERNAL_IPS = ('127.0.0.1',)
 
 import os
 settings_dir = os.path.dirname(__file__)
@@ -122,7 +122,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.common.CommonMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
-    #'debug_toolbar.middleware.DebugToolbarMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     # Uncomment the next line for simple clickjacking protection:
@@ -137,7 +137,7 @@ WSGI_APPLICATION = 'Annuaire.wsgi.application'
 os.path.join(PROJECT_ROOT, 'Annuaire/templates/'),
 
 INSTALLED_APPS = (
-    #'debug_toolbar',
+    'debug_toolbar',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',

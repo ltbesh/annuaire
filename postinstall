@@ -1,3 +1,4 @@
 #!/bin/sh
 python Annuaire/manage.py syncdb --noinput
 python Annuaire/manage.py migrate
+python mkadmin.py
